@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: 3task
-Donate link: http://www.3task.de/tools-programme/wordpress-lexikon/
+Donate link: http://www.3task.de/donate/
 Tags: lexikon, lexicon, seo lexikon, seo lexicon, page lexicon, encyclopedia, dictionary
 Requires at least: 3.1
 Tested up to: 4.1
@@ -28,5 +28,5 @@ Zusatzfunktion: Kommen in einem Lexikon Beitrag Wörter vor, die schon als Lexik
 2. Lexikon Einstellungen Admin
 
 == Changelog ==
-
-== Upgrade Notice ==
+22.01.15 Update Bugfix Autor Url
+22.01.15 Start Public Version 5.0
